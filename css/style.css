@@ -23,11 +23,10 @@ nav .container-fluid {
   font-size: 25px;
 }
 .nav-fix {
-  margin-right: 10rem;
   margin-bottom: 2rem !important;
 }
 .nav-item {
-  margin-right: 10rem;
+  margin-right: 8rem;
 }
 #view {
   border-radius: 25px;
